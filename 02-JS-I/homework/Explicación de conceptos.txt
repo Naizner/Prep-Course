@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+Las variables en javascript son espacios o cajitas en donde se guarda información para luego poder re utilizarlas. Estas variables pueden estar definidas o no. Pero al declararlas o hacerlas explícitas guardamos un espacio en la memoria para utilizar las y manipularlas.
+
+ * Strings
+Los strings son un tipo de dato en javascript que singinifica cadena de texto. Expresa los caracteres y espacios y los clasifica como strings. Hay distintos tipos de datos. Como un números, los tipo booleanos o un strings o cadena de texto.
+ * Funciones (argumentos, `return`)
+Una función es una forma de crear una instrucción que puedo utilizar tantas veces como quiera para simplificar una tarea o la escritura del código. Las funciones son statement dentro de Javascript y se caracterizan por no devolver un resultado por si solas. A menos que se la llame para su ejecusión. En su escritura recibe como datos argumentos y luego una zona para ejecutar las sentencias. 
+ * Declaraciones `if`
+ El If es una función condicional en donde se fija una condición, y en la medida que esta secumpla entonces se ejecuta el código o instrucción en la sentencia. Esta condición necesaria arroja un resultado verdadero o falso. En la medida que sea verdadero, el interprete del código ejecuta la sentencia de la declaración If. 
+ * Valores booleanos (`true`, `false`) 
+ Son valores de comparación en donde solo existen dos resultados posibles. El concepto de booleano proviene de la logica binaria. En javascript se usan los valores booleanos para determinar verdadero o falso. True o False. Es un tipo de dato como los strings o los numeros.

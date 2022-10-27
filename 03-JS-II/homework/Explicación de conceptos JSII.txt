@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Los bucles For son funciones programadas en forma nativa dentro de Javascript que sirven para realizar acciones repetitivas que de otra forma nos costaría mucho mayor esfuerzo realizarlas. A estos procesos que iteran y repiten acciones se los llama bucles. El for es un bucle que repetirá una accion en la medida que se cumplan ciertas condiciones. Como configuración el For recibe una variable que hay que inicializar, para luego, separado por ; le indicamos la condición que debe cumplir para seguir su repetición o iteración. Por último incrementamos la variable para que crezca o decrezca hasta cumplir la condición fijada. En la medida que la condición expresada sea True, el bucle ejecutará el bloque de código espuesto entre llaves, una y otra vez hasta llegar al limitante configurado en la variable. 
+* `&&`, `||`, `!`
+Los operadores lógicos trabajan en conjunto con los operadores de comparación < > >= <= ==. Nos ayudan a preguntarnos sin dos o más comparaciones son verdaderas o falsas. 
+Por ejemplo && significa y. En el sentido de preguntarnos. Si pasa una condición y (&&) pasa esta otra condición, entonces sucederá esta acción. 
+Otro ejemplo con || que significa O. Si se cumple esta condición O (||) se cumple esta otra condición, entonces sucederá esta acción.
+En el primer caso el término y (&&) nos indica que ambas condiciones deben cumplirse para que el resultado sea verdadero. Si olo una de las condiciones no se cumple, entonces es falso.
+Por el contrario, el término O (||) nos indica que en la medida que se cumpla una de las condiciones, entonces el resultado será verdadero. Puede que una condición no se cumpla, pero si la otra se cumple, el resultado es True. En cambio si ambas condiciones no se cumplieran, el resultado e False.
+El término && incluye todas las expresiones de comparación para indicar que son verdaderas. En cambio el término || será True en la medida que alguna de las condiciones fijadas se cumpla.
+
+El operador lógico ! nos indica negación o el contrario de la expresión a la cual hace referencia. Se utiliza para lograr la acción inversa de la operación que queremos realizar. Dentro de las lógica el NOT o ! devuelve el valor contrario al booleano. Si anteponemos ! a una expresión verdadera, nos devolverá False. Si anteponemos ! a un ==, nos dirá que NO es igual. 
