@@ -1,0 +1,8 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+En la construcción de objetos con clases definimos métodos y funciones. Estas funciones ocupan un espacio en la memoria y consumen recursos. Para los casos en donde se crean muchos objetos, este consumo de recursos aumenta considerablemente ya que cada objeto tiene que ejecutar su propio método. 
+Para solucionar esto, JavasCript definió una propiedad prototype en cada Objeto que permite establecer un método en una clase y dar acceso para que otros objetos utilicen esta función, optimizando los recursos de ejecución, disminuyendo el código escrito y como consecuencia optimizando el programa.
+* _Constructors_ (de Clases)
+El constructor de clases es una función nativa de JavasCript que permite establecer una plantilla pre definida para la creación de objetos que comparten caracteristicas iguales o simialres. Permite replicar objetos rápidamente y permite introducir los valores de caada parametro de los objetos.
+Dentro del constructor se definen los parámetros que contendrá la clase y se utiliza la palabra reservada this para indicar a que Clase.objeto hacen referencia los parámetros establecidos. 
