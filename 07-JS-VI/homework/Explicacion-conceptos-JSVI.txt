@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Funciones Callback
+Las funciones Callback son funciones que son llamadas desde otras funciones. Podemos establecer una función que ejecute una acción y cuando necesitemos de esa acción podemos llamarla dentro de otra función para que se ejecute, sin necesidad de escribir literalmente esa funcción, sinó como callbaack o llamada.
