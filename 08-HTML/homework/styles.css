@@ -1,0 +1,44 @@
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1 {
+    color:blueviolet;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+#thirdDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 10px solid rgb(40, 93, 185);
+}
+#spanId {
+    text-align: center;
+    font-size: 18px;
+    margin: 50px;
+    padding: 5px;
+}
+
+body {
+    background-image: url(https://lapebeta.ar/wp-content/uploads/2021/02/DSC8973.jpg);
+}
+.divClass {
+    text-align: center;
+}
